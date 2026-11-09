@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/aditya-grover/node2vec/commit/883241e825e1473ef9916ac79f6686f5ef6b1603",
       "git:hexsha": "883241e825e1473ef9916ac79f6686f5ef6b1603",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
